@@ -1,0 +1,6 @@
+@LunevAPP_HostAddress = http://localhost:5283
+
+GET {{LunevAPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
