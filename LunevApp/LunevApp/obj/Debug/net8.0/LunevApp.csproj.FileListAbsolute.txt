@@ -27,7 +27,6 @@ C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\staticwebassets\m
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LunevApp.props
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LunevApp.props
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\LunevApp.csproj.Up2Date
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\LunevApp.dll
 C:\Users\elise\source\repos\LunevApp\LunevApp\obj\Debug\net8.0\refint\LunevApp.dll

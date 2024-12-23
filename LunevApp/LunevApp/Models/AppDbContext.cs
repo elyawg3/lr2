@@ -10,7 +10,9 @@ public class AppDbContext : DbContext
     public DbSet<Order> Orders { get; set; }
     public DbSet<OrderItem> OrderItems { get; set; }
 
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { 
+    Database.Migrate();
+    }
 
     // Настройка связей и ограничений
     protected override void OnModelCreating(ModelBuilder modelBuilder)
